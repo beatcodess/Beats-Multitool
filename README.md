@@ -38,6 +38,4 @@ This repository is devoted to my multitool
 
   # Coming Soon
 
-  - a steganography detector for Images and DOCX It will identify if any stenography is in the image or DOCX to keep you safe from hidden, Malicious code being executed on you machine.
-
   - a steganography scrubber to Delete any hidden stenography so you can see the image and still keep the code from being executed.
