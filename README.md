@@ -11,6 +11,7 @@ This repository is devoted to my multitool
   - Exif data removal
   - Portscanner
   - Ip geolocater
+  - Steganography detector
  
 
 
@@ -34,6 +35,9 @@ This repository is devoted to my multitool
  
     IP Geolocater
   - The "IP Geolocater" tool is much more advanced then you might think, When an IP or Domain Name is entered, A full report of ISP, Long-Lat, Timezone. When the IP is entered it will also open a custom HTML map with a rough estimate of the area where the IP is located
+
+  Steganography detector
+- The "Steganography detector" tool take a image and reads its res green and blue for any purposely placed code it the code look abnormal it will flag it
  
 
   # Coming Soon
