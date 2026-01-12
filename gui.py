@@ -41,8 +41,8 @@ def print_menu():
         "4. Image Metadata Scrubber",
         "5. Port Scanner",
         "6. IP Geo Locator",
-        "7. Steganography Detector",
-        "8. Steganography Scrubber",
+        "7. Steganography Scrubber",
+        "8. Coming soon...",
     ]
     
     for option in menu_options:
